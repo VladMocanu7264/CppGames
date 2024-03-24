@@ -43,6 +43,6 @@ MAGICHEROES
 
 - my best game made in high school without a game engine
 - a 1v1 two player game
-- 3 implemented heroes
 - 3 maps to play on
+- 3 implemented heroes
 - 1 normal fire, 1 passive and 1 ability for each
