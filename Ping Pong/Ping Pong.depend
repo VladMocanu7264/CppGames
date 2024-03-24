@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1580675474 source:d:\codeblocks\share\codeblocks\ping pong\art.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"Art.h"
+	"Paleta.h"
+
+1580675474 d:\codeblocks\share\codeblocks\ping pong\art.h
+
+1580758653 source:d:\codeblocks\share\codeblocks\ping pong\main.cpp
+	<iostream>
+	<windows.h>
+	"Paleta.h"
+	"Art.h"
+	"Ball.h"
+
+1580675474 d:\codeblocks\share\codeblocks\ping pong\paleta.h
+
+1580675474 source:d:\codeblocks\share\codeblocks\ping pong\paleta.cpp
+	<iostream>
+	"Paleta.h"
+	"Art.h"
+
+1580676696 source:d:\codeblocks\share\codeblocks\ping pong\ball.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Ball.h"
+
+1580675637 d:\codeblocks\share\codeblocks\ping pong\ball.h
+
+1580675474 source:d:\codeblocks\share\codeblocks\!games\ping pong\art.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"Art.h"
+	"Paleta.h"
+
+1580675474 d:\codeblocks\share\codeblocks\!games\ping pong\art.h
+
+1580675474 d:\codeblocks\share\codeblocks\!games\ping pong\paleta.h
+
+1580676696 source:d:\codeblocks\share\codeblocks\!games\ping pong\ball.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Ball.h"
+
+1580675637 d:\codeblocks\share\codeblocks\!games\ping pong\ball.h
+
+1580758653 source:d:\codeblocks\share\codeblocks\!games\ping pong\main.cpp
+	<iostream>
+	<windows.h>
+	"Paleta.h"
+	"Art.h"
+	"Ball.h"
+
+1580675474 source:d:\codeblocks\share\codeblocks\!games\ping pong\paleta.cpp
+	<iostream>
+	"Paleta.h"
+	"Art.h"
+
+1580679074 source:h:\codeblocks\share\codeblocks\!games\ping pong\art.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"Art.h"
+	"Paleta.h"
+
+1580679074 h:\codeblocks\share\codeblocks\!games\ping pong\art.h
+
+1580679074 h:\codeblocks\share\codeblocks\!games\ping pong\paleta.h
+
+1580680296 source:h:\codeblocks\share\codeblocks\!games\ping pong\ball.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Ball.h"
+
+1580679237 h:\codeblocks\share\codeblocks\!games\ping pong\ball.h
+
+1580762253 source:h:\codeblocks\share\codeblocks\!games\ping pong\main.cpp
+	<iostream>
+	<windows.h>
+	"Paleta.h"
+	"Art.h"
+	"Ball.h"
+
+1580679074 source:h:\codeblocks\share\codeblocks\!games\ping pong\paleta.cpp
+	<iostream>
+	"Paleta.h"
+	"Art.h"
+
+1580675474 source:g:\code blocks\projects\!games\ping pong\art.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"Art.h"
+	"Paleta.h"
+
+1580675474 g:\code blocks\projects\!games\ping pong\art.h
+
+1580675474 g:\code blocks\projects\!games\ping pong\paleta.h
+
+1580676696 source:g:\code blocks\projects\!games\ping pong\ball.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Ball.h"
+
+1580675637 g:\code blocks\projects\!games\ping pong\ball.h
+
+1580758653 source:g:\code blocks\projects\!games\ping pong\main.cpp
+	<iostream>
+	<windows.h>
+	"Paleta.h"
+	"Art.h"
+	"Ball.h"
+
+1580675474 source:g:\code blocks\projects\!games\ping pong\paleta.cpp
+	<iostream>
+	"Paleta.h"
+	"Art.h"
+

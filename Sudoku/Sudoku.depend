@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1621155812 source:g:\code blocks\projects\!games\sudoku\main.cpp
+	<fstream>
+

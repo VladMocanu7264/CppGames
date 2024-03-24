@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1575579349 source:d:\codeblocks\share\codeblocks\pacman v 0.1\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctime>
+
+1575582949 source:h:\codeblocks\share\codeblocks\!games\pacman v 0.1\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctime>
+
+1575579349 source:g:\code blocks\projects\!games\pacman v 0.1\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctime>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575472589 source:d:\codeblocks\share\codeblocks\spanzuratoarea\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1575472589 source:g:\code blocks\projects\!games\spanzuratoarea\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+

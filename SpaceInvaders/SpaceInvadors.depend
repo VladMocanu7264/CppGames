@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1572699581 source:d:\codeblocks\share\codeblocks\spaceinvadors\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctime>
+
+1572699926 source:g:\code blocks\projects\!games\spaceinvaders\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctime>
+

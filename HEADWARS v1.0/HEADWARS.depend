@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566811410 source:d:\headwars\main.cpp
+	<iostream>
+	<cstdlib>
+
