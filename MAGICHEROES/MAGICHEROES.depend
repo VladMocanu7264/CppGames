@@ -1,0 +1,260 @@
+# depslib dependency file v1.0
+1578410613 source:d:\codeblocks\share\codeblocks\magicheroes\main.cpp
+	<iostream>
+	<fstream>
+	"Enemy.h"
+	"Soldier.h"
+	"FileManaging.h"
+
+1578412607 d:\codeblocks\share\codeblocks\magicheroes\enemy.h
+
+1578413084 source:d:\codeblocks\share\codeblocks\magicheroes\enemy.cpp
+	<iostream>
+	"Enemy.h"
+	"Soldier.h"
+
+1578412202 d:\codeblocks\share\codeblocks\magicheroes\soldier.h
+
+1578413153 source:d:\codeblocks\share\codeblocks\magicheroes\soldier.cpp
+	<iostream>
+	"Enemy.h"
+	"Soldier.h"
+
+1578347973 d:\codeblocks\share\codeblocks\magicheroes\filemanaging.h
+
+1578347996 source:d:\codeblocks\share\codeblocks\magicheroes\filemanaging.cpp
+	<iostream>
+	<fstream>
+	"FileManaging.h"
+
+1578416684 source:d:\codeblocks\share\codeblocks\!games\magicheroes\enemy.cpp
+	<iostream>
+	"Enemy.h"
+	"Soldier.h"
+
+1578416207 d:\codeblocks\share\codeblocks\!games\magicheroes\enemy.h
+
+1578415802 d:\codeblocks\share\codeblocks\!games\magicheroes\soldier.h
+
+1586167100 source:d:\codeblocks\share\codeblocks\!games\magicheroes\filemanaging.cpp
+	<fstream>
+	"FileManaging.h"
+
+1578351573 d:\codeblocks\share\codeblocks\!games\magicheroes\filemanaging.h
+
+1589210910 source:d:\codeblocks\share\codeblocks\!games\magicheroes\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	"Enemy.h"
+	"FileManaging.h"
+	"Sprites.h"
+	"Level.h"
+	"Player.h"
+	"Projectile.h"
+
+1578416753 source:d:\codeblocks\share\codeblocks\!games\magicheroes\soldier.cpp
+	<iostream>
+	"Enemy.h"
+	"Soldier.h"
+
+1588680180 source:d:\codeblocks\share\codeblocks\!games\magicheroes\sprites.cpp
+	<string>
+	<fstream>
+	"Sprites.h"
+
+1588673133 d:\codeblocks\share\codeblocks\!games\magicheroes\sprites.h
+	<string>
+
+1586459571 source:d:\codeblocks\share\codeblocks\!games\magicheroes\screen_functions.cpp
+	"Screen_functions.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1586459571 d:\codeblocks\share\codeblocks\!games\magicheroes\screen_functions.h
+
+1588748601 source:d:\codeblocks\share\codeblocks\!games\magicheroes\level.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Level.h"
+
+1588704469 d:\codeblocks\share\codeblocks\!games\magicheroes\level.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Sprites.h"
+
+1589211451 source:d:\codeblocks\share\codeblocks\!games\magicheroes\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+
+1588680394 d:\codeblocks\share\codeblocks\!games\magicheroes\player.h
+	<string>
+	"Sprites.h"
+
+1589208382 source:d:\codeblocks\share\codeblocks\!games\magicheroes\projectile.cpp
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	"Projectile.h"
+
+1589208208 d:\codeblocks\share\codeblocks\!games\magicheroes\projectile.h
+
+1578413084 source:h:\codeblocks\share\codeblocks\!games\magicheroes\enemy.cpp
+	<iostream>
+	"Enemy.h"
+	"Soldier.h"
+
+1578412607 h:\codeblocks\share\codeblocks\!games\magicheroes\enemy.h
+
+1586163500 source:h:\codeblocks\share\codeblocks\!games\magicheroes\filemanaging.cpp
+	<fstream>
+	"FileManaging.h"
+
+1578347973 h:\codeblocks\share\codeblocks\!games\magicheroes\filemanaging.h
+
+1598209778 source:h:\codeblocks\share\codeblocks\!games\magicheroes\level.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Level.h"
+
+1597732420 h:\codeblocks\share\codeblocks\!games\magicheroes\level.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Sprites.h"
+
+1598464901 h:\codeblocks\share\codeblocks\!games\magicheroes\sprites.h
+	<string>
+
+1599904815 source:h:\codeblocks\share\codeblocks\!games\magicheroes\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<time.h>
+	"Enemy.h"
+	"FileManaging.h"
+	"Sprites.h"
+	"Level.h"
+	"Player.h"
+	"Projectile.h"
+
+1598205973 h:\codeblocks\share\codeblocks\!games\magicheroes\player.h
+	<string>
+	"Sprites.h"
+
+1593332008 h:\codeblocks\share\codeblocks\!games\magicheroes\projectile.h
+
+1598470256 source:h:\codeblocks\share\codeblocks\!games\magicheroes\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+
+1599903000 source:h:\codeblocks\share\codeblocks\!games\magicheroes\projectile.cpp
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	"Projectile.h"
+
+1586455971 source:h:\codeblocks\share\codeblocks\!games\magicheroes\screen_functions.cpp
+	"Screen_functions.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1586455971 h:\codeblocks\share\codeblocks\!games\magicheroes\screen_functions.h
+
+1598210168 source:h:\codeblocks\share\codeblocks\!games\magicheroes\sprites.cpp
+	<string>
+	<fstream>
+	"Sprites.h"
+
+1578413084 source:g:\code blocks\projects\!games\magicheroes\enemy.cpp
+	<iostream>
+	"Enemy.h"
+	"Soldier.h"
+
+1578412607 g:\code blocks\projects\!games\magicheroes\enemy.h
+
+1586159900 source:g:\code blocks\projects\!games\magicheroes\filemanaging.cpp
+	<fstream>
+	"FileManaging.h"
+
+1578347973 g:\code blocks\projects\!games\magicheroes\filemanaging.h
+
+1598206178 source:g:\code blocks\projects\!games\magicheroes\level.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Level.h"
+
+1597728820 g:\code blocks\projects\!games\magicheroes\level.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Sprites.h"
+
+1598461301 g:\code blocks\projects\!games\magicheroes\sprites.h
+	<string>
+
+1599901215 source:g:\code blocks\projects\!games\magicheroes\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<time.h>
+	"Enemy.h"
+	"FileManaging.h"
+	"Sprites.h"
+	"Level.h"
+	"Player.h"
+	"Projectile.h"
+
+1598202373 g:\code blocks\projects\!games\magicheroes\player.h
+	<string>
+	"Sprites.h"
+
+1593328408 g:\code blocks\projects\!games\magicheroes\projectile.h
+
+1598466656 source:g:\code blocks\projects\!games\magicheroes\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+
+1599899400 source:g:\code blocks\projects\!games\magicheroes\projectile.cpp
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	"Projectile.h"
+
+1586452371 source:g:\code blocks\projects\!games\magicheroes\screen_functions.cpp
+	"Screen_functions.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1586452371 g:\code blocks\projects\!games\magicheroes\screen_functions.h
+
+1598206568 source:g:\code blocks\projects\!games\magicheroes\sprites.cpp
+	<string>
+	<fstream>
+	"Sprites.h"
+

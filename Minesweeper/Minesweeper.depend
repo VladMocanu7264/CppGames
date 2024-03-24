@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1566808937 source:d:\codeblocks\share\codeblocks\minesweeper\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1566808937 source:h:\codeblocks\share\codeblocks\!games\minesweeper\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1566801737 source:g:\code blocks\projects\!games\minesweeper\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

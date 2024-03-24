@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561145239 source:d:\codeblocks\share\codeblocks\headwars generalizat\main.cpp
+	<iostream>
+	<cstdlib>
+
